@@ -8,7 +8,7 @@ To download this docker image, use this command:
 
 Afterwards acquire the container image ID once it's build, and use this command to run the container:
 
-docker run \
+> docker run \
     --name minecraft-instance \
     -p 0.0.0.0:25565:25565 \
     -d \
