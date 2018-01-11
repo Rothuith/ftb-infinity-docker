@@ -4,7 +4,9 @@ For instructions on how to use this docker image, see [dlord/minecraft][].
 
 To download this docker image, use this command:
 
-> docker build github.com/Rothuith/ftb-infinity-docker
+```
+docker build github.com/Rothuith/ftb-infinity-docker
+```
 
 Afterwards acquire the container image ID once it's build, and use this command to run the container:
 
